@@ -1,6 +1,11 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "Graham Bell",
-  "completed": false
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
